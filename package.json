@@ -22,12 +22,12 @@
   },
   "devDependencies": {
     "coveralls": "3.0.3",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-jshint": "^2.1.0",
-    "gulp-mocha": "^6.0.0",
+    "gulp-mocha": "^7.0.2",
     "gulp-shell": "^0.7.0",
     "jshint": "2.10.1",
-    "nyc": "13.3.0",
+    "nyc": "^15.1.0",
     "should": "13.2.3"
   },
   "engines": {
